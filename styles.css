@@ -45,3 +45,99 @@ h1 {
     margin-top: 30px;
     margin-bottom: 10px;
 }
+
+.one {
+    grid-area: 3;
+    text-align: center;
+    font-size: large;
+    height: 60px;
+}
+
+.two {
+    grid-area: 3/2;
+    text-align: center;
+    font-size: large;
+}
+
+.three {
+    grid-area: 3/3;
+    text-align: center;
+    font-size: large;
+}
+
+.four {
+    grid-area: 4;
+    text-align: center;
+    font-size: large;
+    height: 60px;
+}
+
+.five {
+    grid-area: 4/2;
+    text-align: center;
+    font-size: large;
+}
+
+.six {
+    grid-area: 4/3;
+    text-align: center;
+    font-size: large;
+}
+
+.seven {
+    grid-area: 5;
+    text-align: center;
+    font-size: large;
+    height: 60px;
+}
+
+.eight {
+    grid-area: 5/2;
+    text-align: center;
+    font-size: large;
+}
+
+.nine {
+    grid-area: 5/3;
+    text-align: center;
+    font-size: large;
+}
+
+.zero {
+    grid-area: 6;
+    text-align: center;
+    font-size: large;
+    height: 60px;
+}
+
+.multiply {
+    grid-area: 6/2;
+    text-align: center;
+    font-size: large;
+}
+
+.divide {
+    grid-area: 6/3;
+    text-align: center;
+    font-size: large;
+}
+
+.add {
+    grid-area: 7;
+    text-align: center;
+    font-size: large;
+    height: 60px;
+}
+
+.subtract {
+    grid-area: 7/2;
+    text-align: center;
+    font-size: large;
+}
+
+.equals {
+    grid-area: 7/3;
+    text-align: center;
+    font-size: large;
+}
+
