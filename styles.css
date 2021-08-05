@@ -141,3 +141,11 @@ h1 {
     font-size: large;
 }
 
+.one:hover, .two:hover, .three:hover, .four:hover, .five:hover, .six:hover, .seven:hover, .eight:hover, .nine:hover, .zero:hover, .multiply:hover, .divide:hover, .add:hover, .subtract:hover, .equals:hover {
+    background-color: rgb(223, 223, 222);
+    cursor: grab;
+}
+
+input[type=button] {
+    background-color: rgb(236, 203, 111);
+}
