@@ -35,7 +35,7 @@ h1 {
     margin-bottom: 0px;
 }
 
-#solution {
+#calc_display {
     background-color: white;
     grid-row-start: 2;
     grid-column-start: 1;
