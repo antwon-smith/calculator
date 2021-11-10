@@ -3,7 +3,7 @@
 
 
 var calcDisplay = document.getElementById('calc_display'); // stores the display element in a variable
-var calcButtons = Array.from(document.getElementsByClassName('all_keys')); // returns an array of all the buttons
+var calcButtons = Array.from(document.querySelectorAll('.all_keys button')); // returns an array of all the buttons
 //var opButtons = Array.from(document.getElementsByClassName('operator_buttons')); // returns an array of the operator buttons
 
 console.log(calcButtons);
